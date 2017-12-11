@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+footer {
+  text-align: center;
+  color: white;
+}
+h1 {
+  font-family: sans-serif;
+  font: arial;
+  font-size: 2.5em;
+  margin-top: 0.1em;
+  margin-bottom: 0em;
+  text-align: center;
+  text-align: top;
+  color: white;
+}
+#CanvasContainer {
+  width: 594px;
+  margin: 0px auto;
+}
