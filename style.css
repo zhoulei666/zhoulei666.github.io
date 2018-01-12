@@ -1,0 +1,21 @@
+body {
+  background-color: black;/*create the black background*/
+}
+footer {
+  text-align: center;/*make the footer on the center of the top*/
+  color: white;/*text color*/
+}
+h1 {
+  font-family: sans-serif;/*no line under text*/
+  font: arial;/*choose the font of title*/
+  font-size: 2.5em;/*size of the title*/
+  margin-top: 0.1em;/*the distance from margin-top*/
+  margin-bottom: 0em;/*the distance from margin-bottom*/
+  text-align: center;
+  text-align: top;/*make the title on the top center*/
+  color: white;/*title color*/
+}
+#CanvasContainer {
+  width: 1400px;
+  margin: 0px auto;/*set the CanvasContainer*/
+}
